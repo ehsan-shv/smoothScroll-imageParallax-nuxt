@@ -1,5 +1,7 @@
 # smothScroll-imageParallax-Nuxt
 
+Smooth scroll and image parallax effect in nuxt apps by https://github.com/idiotWu/smooth-scrollbar.
+
 ## Build Setup
 
 ```bash

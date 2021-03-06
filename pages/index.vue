@@ -11,7 +11,7 @@
       <figure class="banner" data-parallax>
         <img class="banner__img" src="/img-4.jpg" alt="Smooth Scroll & Image Parallax">
       </figure>
-      <a href="https://github.com/ehsan-shv">github</a>
+      <a href="https://github.com/ehsan-shv/smoothScroll-imageParallax-Nuxt">github</a>
     </div>
   </div>
 </template>
