@@ -1,4 +1,5 @@
 export default {
+  target: 'static', // default is 'server'
   // Global page headers: https://go.nuxtjs.dev/config-head
   head: {
     title: 'smothScroll-imageParallax-Nuxt',
