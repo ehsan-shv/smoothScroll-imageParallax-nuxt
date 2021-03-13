@@ -44,6 +44,7 @@ export default {
 .gallery {
   display: flex;
   flex-wrap: wrap;
+  //
 
   &__fig {
     display: flex;
@@ -72,9 +73,10 @@ export default {
   }
 }
 
-.banner{
+.banner {
   width: 100%;
-  &__img{
+
+  &__img {
     width: 100%;
     max-width: 100%;
     height: auto;
