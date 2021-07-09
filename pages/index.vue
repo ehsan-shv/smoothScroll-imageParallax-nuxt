@@ -2,7 +2,7 @@
   <div class="smoothLayer">
     <div class="container">
       <h1>Smooth Scroll & Image Parallax</h1>
-      <h2>Nux app</h2>
+      <h2>Nuxt app</h2>
       <div class="gallery">
         <figure v-for="(item, i) in gallery" :key="i" class="gallery__fig" data-parallax>
           <img class="gallery__fig__img" :src="item" alt="Smooth Scroll & Image Parallax">
