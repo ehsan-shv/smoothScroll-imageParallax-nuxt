@@ -24,7 +24,7 @@ export default {
   mixins: [smoothScroll, parallax],
   data () {
     return {
-      gallery: ['/smoothScroll-imageParallax-nuxt/img-1.jpg', '/smoothScroll-imageParallax-nuxt/img-2.jpg', '/smoothScroll-imageParallax-Nuxt/img-3.jpg']
+      gallery: ['/smoothScroll-imageParallax-nuxt/img-1.jpg', '/smoothScroll-imageParallax-nuxt/img-2.jpg', '/smoothScroll-imageParallax-nuxt/img-3.jpg']
     }
   }
 }
