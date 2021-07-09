@@ -9,7 +9,7 @@
         </figure>
       </div>
       <figure class="banner" data-parallax>
-        <img class="banner__img" src="/smoothScroll-imageParallax-Nuxt/img-4.jpg" alt="Smooth Scroll & Image Parallax">
+        <img class="banner__img" src="/smoothScroll-imageParallax-nuxt/img-4.jpg" alt="Smooth Scroll & Image Parallax">
       </figure>
       <a href="https://github.com/ehsan-shv/smoothScroll-imageParallax-Nuxt">github</a>
     </div>
@@ -24,7 +24,7 @@ export default {
   mixins: [smoothScroll, parallax],
   data () {
     return {
-      gallery: ['/smoothScroll-imageParallax-Nuxt/img-1.jpg', '/smoothScroll-imageParallax-Nuxt/img-2.jpg', '/smoothScroll-imageParallax-Nuxt/img-3.jpg']
+      gallery: ['/smoothScroll-imageParallax-nuxt/img-1.jpg', '/smoothScroll-imageParallax-nuxt/img-2.jpg', '/smoothScroll-imageParallax-Nuxt/img-3.jpg']
     }
   }
 }
